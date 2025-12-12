@@ -1,10 +1,34 @@
-# Γνῶθι σεαυτόν.
-  ## "Know thyself"  -Aphorism inscribed over the entrance to the temple of Apollo at Delphi.
+# Γνῶθι σεαυτόν (Gnothi Seauton)
 
-Greetings, fellow seekers of lore and disciples of the arcane arts! Behold, within the ethereal realm of Github, I, a humble neophyte in the realm of coding, doth embark upon a journey of enlightenment and discovery. As a sorcerer of the digital age, I have forged this repository to house the relics of my learning quests – a testament to my trials and triumphs in the realm of coding.
+> **Γνῶθι σεαυτόν.**
+> *"Know thyself."* — Inscribed at the Temple of Apollo at Delphi.
 
-Within these virtual tomes lie the fruits of my labour – learning projects crafted with care and curiosity, akin to an adventurer's log chronicling their exploits. Though my spells may falter and my incantations may waver, fear not, for it is through these humble endeavours that I seek to unlock the mysteries of code.
+> **千里の道も一歩から** (Senri no michi mo ippo kara)
+> *"A journey of a thousand miles begins with a single step."* — Japanese Proverb
 
-Yet, I am but a novice, a mere acolyte in the grand tapestry of coding knowledge. Thus, I beseech thee, fellow travellers of the digital cosmos, to share thy wisdom, to offer thy counsel and guidance upon these sacred texts. Let thy comments and advice be as beacons in the night, guiding me ever onward in my quest for mastery.
+---
 
-So, let us journey forth together, bound by our shared pursuit of knowledge and illuminated by the flickering glow of the digital fire. For in this realm of endless possibilities, the journey is as enchanting as the destination itself."
+### Abstract
+
+Greetings to the fellow travelers and mentors of the digital realm.
+
+This repository serves as the chronicle of my development—a collection of the trials, exercises, and foundational projects that mark my path from novice to engineer. Unlike my research initiatives, this archive focuses on the discipline of practice and the incremental accumulation of skill.
+
+The code within these directories represents my personal "Doho" (Way of the Path), where I sharpen the fundamental logic required to build complex systems.
+
+### The Chronicles (Project Log)
+
+Within this archive, you will find the records of my daily practice:
+
+* **100 Days Python Bootcamp:** A rigorous, day-by-day challenge covering the spectrum of Python, from basic syntax to automation and data handling.
+* **The Web Developer Course:** Studies in the architecture of the web, focusing on HTML, CSS, and the structure of modern interfaces.
+* **Snack Project:** A logic-based implementation of a vending system, exploring state management and user interaction.
+
+### About the Author
+
+I am **Aidoneus** (İpek Naz Sipahi), a Computer Engineering student at Manisa Celal Bayar University.
+I believe that mastery is not a destination, but a continuous process of self-correction and discovery. This repository is the mirror in which I observe my own growth.
+
+---
+
+*"We do not learn for school, but for life."*
