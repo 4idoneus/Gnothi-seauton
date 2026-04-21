@@ -8,7 +8,7 @@ class SnackMenu:
     def __init__(self):
         # Initial Stock
         self.menu = [
-            Snacks(name="Protein Bar", stock=0, cost=55),
+            Snacks(name="Protein Bar", stock=1, cost=55),
             Snacks(name="Water", stock=10, cost=5),
             Snacks(name="Dried Nuts", stock=10, cost=30),
             Snacks(name="Cola", stock=10, cost=15),
